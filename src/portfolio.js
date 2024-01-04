@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Italo's Portfolio",
   description:
-    "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "BI and Data Analyst 📊 | Tech Explorer 🔍 | Lifelong Learner 🚀 Passionate about deciphering data and unlocking insights!",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Italo Felipe Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://italofelipe01.github.io/",
   },
 };
 
@@ -22,11 +22,12 @@ const greeting = {
   title: "Ítalo Felipe",
   logo_name: "ItaloFelipe",
   nickname: "producer",
-  subTitle: 
+  subTitle:
     "BI and Data Analyst 📊 | Tech Explorer 🔍 | Lifelong Learner 🚀 Passionate about deciphering data and unlocking insights!",
   resumeLink:
     "https://drive.google.com/file/d/1mVPZDFYm-sNKO4ln2omlC9rSWG6szB-A/view?usp=sharing",
-  portfolio_repository: "https://github.com/italofelipe01/italofelipe01.github.io",
+  portfolio_repository:
+    "https://github.com/italofelipe01/italofelipe01.github.io",
   githubProfile: "https://github.com/italofelipe01/",
 };
 
@@ -47,41 +48,41 @@ const socialMediaLinks = [
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
-    name: "LinkedIn",
+    name: "Linkedin",
     link: "https://www.linkedin.com/in/italomorais/",
     fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  {
-    name: "YouTube",
-    link: "https://www.youtube.com/@italofelipe01",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
-    backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },
+  // {
+  //   name: "YouTube",
+  //   link: "https://www.youtube.com/@italofelipe01",
+  //   fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+  //   backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
+  // },
   {
     name: "Gmail",
     link: "mailto:italofelipelira@gmail.com",
     fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
-  {
-    name: "X-Twitter",
-    link: "",
-    fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
-    backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
-  },
-  {
-    name: "Facebook",
-    link: "https://www.facebook.com/italofelipe.morais/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
-  },
-  {
-    name: "Instagram",
-    link: "https://www.instagram.com/italof.morais/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  },
+  // {
+  //   name: "X-Twitter",
+  //   link: "",
+  //   fontAwesomeIcon: "fa-x-twitter", // Reference https://fontawesome.com/icons/x-twitter?f=brands&s=solid
+  //   backgroundColor: "#000000", // Reference https://simpleicons.org/?q=x
+  // },
+  // {
+  //   name: "Facebook",
+  //   link: "https://www.facebook.com/italofelipe.morais/",
+  //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+  //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
+  // },
+  // {
+  //   name: "Instagram",
+  //   link: "https://www.instagram.com/italof.morais/",
+  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  // },
 ];
 
 const skills = {
@@ -94,7 +95,7 @@ const skills = {
         "⚡ Remove errors, duplicates, and irrelevant information from raw data.",
         "⚡ Apply statistical techniques to identify patterns and trends.",
         "⚡ Create charts and dashboards to communicate insights effectively.",
-        "⚡ Interpret results and prepare reports with recommendations."
+        "⚡ Interpret results and prepare reports with recommendations.",
       ],
       softwareSkills: [
         {
@@ -383,13 +384,12 @@ const degrees = {
     {
       title: "Universidade Federal de Goiás",
       subtitle: "Bachelor's degree in Mechanical Engineering",
-      logo_path: "iiitk_logo.png",
-      alt_name: "IIITDM Kurnool",
-      duration: "2017 - now",
+      logo_path: "ufg_logo.png",
+      alt_name: "UFG",
+      duration: "2017 - 2024",
       descriptions: [
-        "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
-        "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Cloud Computing and Full Stack Development.",
-        "⚡ I was selected for Merit cum Means Scholarship which is given to top 10% of students in college. I have received award from respected director for consistently best performance in academics.",
+        "⚡ Studied in Mechanical Engineering enhances an engineer's analytical skills by designing, analyzing, and optimizing mechanical systems to solve complex challenges",
+        "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Cloud Computing.",
       ],
       website_link: "https://ufg.br/",
     },
