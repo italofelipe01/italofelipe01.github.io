@@ -633,11 +633,12 @@ const publications = {
   data: [
     {
       id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      name: "Artificial Intelligence Paper",
-      createdAt: "2020-03-06T16:26:54Z",
-      description: "Paper Written on Artificial Intelligence published in xyz ",
+      name: "Alura Pets BI",
+      createdAt: "2022-03-06T15:40:54Z",
+      description:
+        "A dashboard with valuable business information for a pet shop named Alura Pets (experimental only).",
       url:
-        "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
+        "https://app.powerbi.com/view?r=eyJrIjoiMWM1ZjAwMWEtZTAxNi00YTgxLWE4MTAtN2Q0MDc5ODIwYWQ4IiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
     },
     // {
     //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
@@ -678,32 +679,31 @@ const publications = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "animated_ashutosh.png",
+    profile_image_path: "me_anime.png",
     description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me11, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
   },
   blogSection: {
-    title: "Blogs",
-    subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    // title: "Blogs",
+    // subtitle:
+    //   "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
+    // link: "https://blogs.ashutoshhathidara.com/",
+    // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Ambavadi vas, Kanodar, T.A.-Palanpur, Dist.-Banaskantha, Gujarat - 385520",
-    locality: "Kanodar",
-    country: "IN",
-    region: "Gujarat",
-    postalCode: "385520",
-    streetAddress: "Ambavadi vas",
+    subtitle: "Av. Nápoli, Goiânia - GO, CEP: 74367-640",
+    locality: "Goiânia",
+    country: "BR",
+    region: "Goiás",
+    postalCode: "74367-640",
+    streetAddress: "Av. Nápoli",
     avatar_image_path: "address_image.svg",
-    location_map_link: "https://goo.gl/maps/MpMqtRZytFchMkZ76",
+    location_map_link: "https://maps.app.goo.gl/uy4W7V9Qrtas3UB57",
   },
   phoneSection: {
-    title: "",
-    subtitle: "",
+    title: "Phone Number",
+    subtitle: "+55 (62) 98109-0041",
   },
 };
 
