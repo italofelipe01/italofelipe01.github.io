@@ -691,7 +691,7 @@ const contactPageData = {
     title: "Contact Me",
     profile_image_path: "me_anime.png",
     description:
-      "I am available on almost every social media. You can message me11, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with organizes, and analyzes information to provide valuable insights to organizations. Including cleaning and preparing data, conducting exploratory analyses, developing analytical models, interpreting results, and assisting in strategic decision-making. They often collaborate with multidisciplinary teams and communicate their findings in an understandable manner to various stakeholders..",
   },
   blogSection: {
     // title: "Blogs",
