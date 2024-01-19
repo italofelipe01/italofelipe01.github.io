@@ -702,7 +702,7 @@ const contactPageData = {
   },
   addressSection: {
     title: "Address",
-    subtitle: "Av. Nápoli, Goiânia - GO, CEP: 74367-640",
+    subtitle: "Av. Nápoli, Goiânia, GO, CEP: 74367-640",
     locality: "Goiânia",
     country: "BR",
     region: "Goiás",
