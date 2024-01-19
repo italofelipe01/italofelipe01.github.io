@@ -2,7 +2,7 @@
 
 // Website related settings
 const settings = {
-  isSplash: true, // Change this to false if you don't want Splash screen.
+  isSplash: false, // Change this to false if you don't want Splash screen.
 };
 
 //SEO Related settings
@@ -618,21 +618,21 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects leverage a diverse range of cutting-edge technology tools. My expertise lies in developing and implementing Data Analysis and Data Science projects, with a particular focus on deploying them as web applications utilizing cloud infrastructure.",
+    "My experience lies in the development and implementation of Data Analysis and Data Science projects, with a particular focus on implementing and visualizing them through dashboards, controlling processes based on the analysis of information and managing the continuous improvement of these processes.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description:
-    "I have worked on and published a few research papers and publications of my own.",
+    "I worked on and published some dashboards so that they can be viewed and some examples are provided below.",
   avatar_image_path: "projects_image.svg",
 };
 
 const publications = {
   data: [
     {
-      id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
       name: "Alura Pets BI",
       createdAt: "2022-03-06T15:40:54Z",
       description:
@@ -640,38 +640,48 @@ const publications = {
       url:
         "https://app.powerbi.com/view?r=eyJrIjoiMWM1ZjAwMWEtZTAxNi00YTgxLWE4MTAtN2Q0MDc5ODIwYWQ4IiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
     },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
-    // {
-    //   id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
-    //   name: "Artificial Intelligence Paper",
-    //   createdAt: "2020-03-06T16:26:54Z",
-    //   description: "Paper Written on Artificial Intelligence published in xyz ",
-    //   url:
-    //     "https://www.andrewng.org/publications/building-high-level-features-using-large-scale-unsupervised-learning/",
-    // },
+    {
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzi=",
+      name: "Sales Score",
+      createdAt: "2023-08-10T16:26:54Z",
+      description:
+        "Business Intelligence linking the score produced by logistic regression to potential upgrades in the sale of plan items.",
+      url:
+        "https://app.powerbi.com/view?r=eyJrIjoiMDNkMTg3YzktMDc0Mi00ZTVkLWIyMTQtM2RlN2UwNmFjYmUxIiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
+    },
+    {
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNze=",
+      name: "Sales Dashboard",
+      createdAt: "2022-04-14T16:26:54Z",
+      description: "Commercial dashboard example",
+      url:
+        "https://app.powerbi.com/view?r=eyJrIjoiOWMyZGM4M2ItNTBkZC00OWU5LTg1YzUtNjkwODk4OGI4MDAxIiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
+    },
+    {
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzt=",
+      name: "Olist Dashboard",
+      createdAt: "2023-05-26T16:26:54Z",
+      description: "Commercial dashboard example",
+      url:
+        "https://app.powerbi.com/view?r=eyJrIjoiZmQxM2EyYzItZTVkOS00NTk3LTlmYzQtNzYxZGRhNjZkMTMyIiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
+    },
+    {
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+      name: "Zoop Megastore",
+      createdAt: "2022-10-25T16:26:54Z",
+      description: "Commercial dashboard example",
+      url:
+        "https://app.powerbi.com/view?r=eyJrIjoiZmIxOWNiOGYtODYzZS00OGZjLTljNzEtZDVmMWI1YmMyNzQyIiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
+    },
+    {
+      // id: "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzb=",
+      name: "Volume de mensagens",
+      createdAt: "2023-09-13T16:26:54Z",
+      description:
+        "Dashboard for analyzing the volume of messages exchanged on the platform",
+      url:
+        "https://app.powerbi.com/view?r=eyJrIjoiNGRmYjI3OTctZmRjZC00OGI2LWEyN2QtZmQ4YWJhNTJhODNlIiwidCI6IjE5YzViY2VhLWY4YmEtNDE0OC1hOTFmLTYxZTk2YTBiYjM2YyJ9",
+    },
   ],
 };
 
