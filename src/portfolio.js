@@ -25,22 +25,13 @@ const greeting = {
   subTitle:
     "BI and Data Analyst 📊 | Tech Explorer 🔍 | Lifelong Learner 🚀 Passionate about deciphering data and unlocking insights!",
   resumeLink:
-    "https://drive.google.com/file/d/1mVPZDFYm-sNKO4ln2omlC9rSWG6szB-A/view?usp=sharing",
+    "https://drive.google.com/file/d/1zFEbgd0lRQu7V_mxwicssmNFvrGRxD64/view?usp=sharing",
   portfolio_repository:
     "https://github.com/italofelipe01/italofelipe01.github.io",
   githubProfile: "https://github.com/italofelipe01/",
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
-
   {
     name: "Github",
     link: "https://github.com/italofelipe01/",
@@ -77,18 +68,18 @@ const socialMediaLinks = [
   //   fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
   //   backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   // },
-  // {
-  //   name: "Instagram",
-  //   link: "https://www.instagram.com/italof.morais/",
-  //   fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-  //   backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
-  // },
+  {
+    name: "Instagram",
+    link: "https://www.instagram.com/italof.morais/",
+    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
   data: [
     {
-      title: "Data Science & BI Analyst",
+      title: "Data Science & Data Analyst",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Identify and obtain relevant datasets.",
@@ -245,8 +236,8 @@ const skills = {
           },
         },
         {
-          skillName: "Redshift",
-          fontAwesomeClassname: "logos:aws-redshift",
+          skillName: "AWS",
+          fontAwesomeClassname: "skill-icons:aws-dark",
           style: {
             backgroundColor: "transparent",
             color: "#FF9900",
@@ -262,7 +253,7 @@ const skills = {
         },
         {
           skillName: "SQLite",
-          fontAwesomeClassname: "devicon:sqlite",
+          fontAwesomeClassname: "skill-icons:sqlite",
           style: {
             color: "#FFCA28",
           },
@@ -386,7 +377,7 @@ const degrees = {
       subtitle: "Bachelor's degree in Mechanical Engineering",
       logo_path: "ufg_logo.png",
       alt_name: "UFG",
-      duration: "2017 - 2024",
+      duration: "2017 - 2025",
       descriptions: [
         "⚡ Studied in Mechanical Engineering enhances an engineer's analytical skills by designing, analyzing, and optimizing mechanical systems to solve complex challenges",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Cloud Computing.",
@@ -545,14 +536,36 @@ const experience = {
       work: true,
       experiences: [
         {
-          title: "Data Analyst",
+          title: "Full Data Analyst",
+          company: "EBM Incorporações",
+          company_url: "https://ebm.com.br/",
+          logo_path: "logo-ebm.png",
+          duration: "Aug 2024 - Now",
+          location: "Goiânia - Goiás",
+          description:
+            "Responsible for analyzing data and generating insights focused on the performance of the development company's departments, creating BI dashboards and reports to monitor and optimize results, and collaborating with multidisciplinary teams to identify improvement opportunities and support decision-making",
+          color: "#fc1f20",
+        },
+        {
+          title: "Controller Analyst",
+          company: "Urbanizamos",
+          company_url: "https://urbanizamos.com.br/",
+          logo_path: "download.jpeg",
+          duration: "Jul 2021 - Aug 2024",
+          location: "Goiânia - Goiás",
+          description:
+            "Continuously monitor the economic and financial performance of ventures through critical viability analyses and strategic projections to ensure sustainability and profitability, while planning and controlling expenses in collaboration with other departments to guarantee efficient investments, and preparing and presenting financial reports to partners to support profit distribution decisions.",
+          color: "#fc1f20",
+        },
+        {
+          title: "Senior Data Analyst",
           company: "Poli Soluções Digitais",
           company_url: "https://poli.digital/",
           logo_path: "logo-polidigital.svg",
-          duration: "Aug 2021 - PRESENT",
+          duration: "Jul 2021 - Aug 2024",
           location: "Goiânia - Goiás",
           description:
-            " responsible for interpreting and analyzing complex data sets to extract valuable insights and inform business decision-making. Developing and applying new concepts in Python language, as well as contributing to the development of the company's Data Warehouse and overseeing the management of all this data.",
+            "Responsible for interpreting and analyzing complex data sets to extract valuable insights and inform business decision-making. Developing and applying new concepts in Python language, as well as contributing to the development of the company's Data Warehouse and overseeing the management of all this data.",
           color: "#fc1f20",
         },
       ],
@@ -565,7 +578,7 @@ const experience = {
           company: "Poli Soluções Digitais",
           company_url: "https://poli.digital/",
           logo_path: "logo-polidigital.svg",
-          duration: "Jan 2021 - July 2021",
+          duration: "Jan 2021 - Jul 2021",
           location: "Goiânia - Goiás",
           description:
             "Internship in data analysis and information control, focusing on the use of data analysis tools such as Excel and Power BI. Engaged in the creation and development of managing all key performance indicators (KPIs) for the company.",
@@ -595,7 +608,7 @@ const experience = {
           duration: "Jan 2018 - May 2021",
           location: "Goiânia - Goiás",
           description:
-            "10 years operating in the Goiás market as a multidisciplinary company, providing consulting services, undertaking innovative and affordable projects, and delivering tailored solutions to meet the needs of our clients.",
+            "10+ years operating in the Goiás market as a multidisciplinary company, providing consulting services, undertaking innovative and affordable projects, and delivering tailored solutions to meet the needs of our clients.",
           color: "#0C9D58",
         },
         {
