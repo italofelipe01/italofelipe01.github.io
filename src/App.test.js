@@ -34,7 +34,47 @@ jest.mock("react-i18next", () => ({
                 fontAwesomeIcon: "fa-github",
                 backgroundColor: "#181717",
               },
+              {
+                name: "Gmail",
+                link: "mailto:italofelipelira@gmail.com",
+              }
             ];
+          }
+          if (str === "degrees") {
+            return {
+              degrees: [],
+            };
+          }
+          if (str === "certifications") {
+            return {
+              certifications: [],
+            };
+          }
+          if (str === "experience") {
+            return {
+              sections: [
+                {
+                  title: "Work",
+                  work: true,
+                  experiences: [
+                    {
+                      title: "Full Data Analyst",
+                      company: "EBM Incorporações",
+                    },
+                  ],
+                },
+              ],
+            };
+          }
+          if (str === "publications") {
+            return {
+              data: [],
+            };
+          }
+           if (str === "competitiveSites") {
+            return {
+              competitiveSites: [],
+            };
           }
         }
         return str;
