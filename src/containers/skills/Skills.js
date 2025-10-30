@@ -1,7 +1,7 @@
 import React from "react";
 import "./Skills.css";
 import SkillSection from "./SkillSection";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import { useTranslation } from "react-i18next";
 
 export default function Skills(props) {

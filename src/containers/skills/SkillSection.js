@@ -1,7 +1,7 @@
 import React from "react";
 import "./Skills.css";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import DataScienceImg from "./DataScienceImg";
 import CloudInfraImg from "./CloudInfraImg";
 
