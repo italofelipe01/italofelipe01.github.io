@@ -1,5 +1,5 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import ReactDOM from "react-dom/client";
 import { BaseProvider, LightTheme } from "baseui";
 import { Provider as StyletronProvider } from "styletron-react";
 import { Client as Styletron } from "styletron-engine-atomic";
@@ -12,14 +12,16 @@ import * as serviceWorker from "./serviceWorker";
 import "./assests/font-awesome/css/all.css";
 
 const engine = new Styletron();
+const root = ReactDOM.createRoot(document.getElementById("root"));
 
-ReactDOM.render(
-  <StyletronProvider value={engine}>
-    <BaseProvider theme={LightTheme}>
-      <App />
-    </BaseProvider>
-  </StyletronProvider>,
-  document.getElementById("root")
+root.render(
+  <React.StrictMode>
+    <StyletronProvider value={engine}>
+      <BaseProvider theme={LightTheme}>
+        <App />
+      </BaseProvider>
+    </StyletronProvider>
+  </React.StrictMode>
 );
 
 // If you want your app to work offline and load faster, you can change

@@ -7,7 +7,7 @@ import Certifications from "../../containers/certifications/Certifications";
 import CompetitiveSites from "../../components/competitiveSites/CompetitiveSites";
 import EducationImg from "./EducationImg";
 import "./EducationComponent.css";
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 import { useTranslation } from "react-i18next";
 
 const Education = (props) => {

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './ExperienceCard.css';
-import { Fade } from "react-reveal";
+import { Fade } from "react-awesome-reveal";
 
 class ExperienceCard extends Component {
   render() {
@@ -10,7 +10,7 @@ class ExperienceCard extends Component {
     const theme = this.props.theme;
     return (
       <div className="experience-list-item" style={{ marginTop: (index === 0 ? 30 : 50) }}>
-        <Fade left duration={2000} distance="40px">
+        <Fade direction="left" duration={2000} triggerOnce>
           <div className="experience-card-logo-div">
             <img
               className="experience-card-logo"
