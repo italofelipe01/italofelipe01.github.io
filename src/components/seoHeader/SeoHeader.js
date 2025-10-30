@@ -1,15 +1,16 @@
 import React from "react";
 import { Helmet } from "react-helmet";
-import {
-  greeting,
-  seo,
-  socialMediaLinks,
-  experience,
-  contactPageData,
-  certifications,
-} from "../../portfolio.js";
+import { useTranslation } from "react-i18next";
 
 function SeoHeader() {
+  const { t } = useTranslation();
+  const socialMediaLinks = t("socialMediaLinks", { returnObjects: true });
+  const experience = t("experience", { returnObjects: true });
+  const contactPageData = t("contactPageData", { returnObjects: true });
+  const certifications = t("certifications", { returnObjects: true });
+  const greeting = t("greeting", { returnObjects: true });
+  const seo = t("seo", { returnObjects: true });
+
   let sameAs = [];
   socialMediaLinks
     .filter(
