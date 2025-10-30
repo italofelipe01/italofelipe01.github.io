@@ -1,7 +1,7 @@
 import React from "react";
 import "./SocialMedia.css";
-import { socialMediaLinks } from "../../portfolio";
 import styled from "styled-components";
+import { useTranslation } from "react-i18next";
 
 const IconWrapper = styled.span`
   i {
@@ -13,7 +13,10 @@ const IconWrapper = styled.span`
   }
 `;
 
-export default function socialMedia(props) {
+export default function SocialMedia(props) {
+  const { t } = useTranslation();
+  const socialMediaLinks = t("socialMediaLinks", { returnObjects: true });
+
   return (
     <div className="social-media-div">
       {socialMediaLinks.map((media, i) => {

@@ -1,0 +1,288 @@
+{
+  "home": "Home",
+  "education": "Education",
+  "experience": "Experience",
+  "projects": "Projects",
+  "opensource": "Open Source",
+  "contact": "Contact Me",
+  "greetingTitle": "Ítalo Felipe",
+  "greetingNickname": "producer",
+  "greetingSubTitle": "BI and Data Analyst 📊 | Tech Explorer 🔍 | Lifelong Learner 🚀 Passionate about deciphering data and unlocking insights!",
+  "github": "Github",
+  "linkedin": "Linkedin",
+  "gmail": "Gmail",
+  "instagram": "Instagram",
+  "starMeOnGithub": "⭐ Star Me On Github",
+  "whatIDo": "What I Do?",
+  "educationTitle": "Education",
+  "educationSubTitle": "Basic Qualification and Certifcations",
+  "degreesReceived": "Degrees Received",
+  "certifications": "Certifications",
+  "projectsTitle": "Projects",
+  "projectsDescription": "My experience lies in the development and implementation of Data Analysis and Data Science projects, with a particular focus on implementing and visualizing them through dashboards, controlling processes based on the analysis of information and managing the continuous improvement of these processes.",
+  "moreProjects": "More Projects",
+  "publicationsTitle": "Publications",
+  "publicationsDescription": "I worked on and published some dashboards so that they can be viewed and some examples are provided below.",
+  "contactTitle": "Contact Me",
+  "contactDescription": "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with organizes, and analyzes information to provide valuable insights to organizations. Including cleaning and preparing data, conducting exploratory analyses, developing analytical models, interpreting results, and assisting in strategic decision-making. They often collaborate with multidisciplinary teams and communicate their findings in an understandable manner to various stakeholders..",
+  "seeMyResume": "See My Resume",
+  "addressTitle": "Address",
+  "addressSubTitle": "Av. Nápoli, Goiânia, GO, CEP: 74367-640",
+  "phoneTitle": "Phone Number",
+  "phoneSubTitle": "+55 (62) 98109-0041",
+  "visitOnGoogleMaps": "Visit on Google Maps",
+  "socialMediaLinks": [
+    {
+      "name": "Github",
+      "link": "https://github.com/italofelipe01/",
+      "fontAwesomeIcon": "fa-github",
+      "backgroundColor": "#181717"
+    },
+    {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/in/italomorais/",
+      "fontAwesomeIcon": "fa-linkedin-in",
+      "backgroundColor": "#0077B5"
+    },
+    {
+      "name": "Gmail",
+      "link": "mailto:italofelipelira@gmail.com",
+      "fontAwesomeIcon": "fa-google",
+      "backgroundColor": "#D14836"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/italof.morais/",
+      "fontAwesomeIcon": "fa-instagram",
+      "backgroundColor": "#E4405F"
+    }
+  ],
+  "skills": {
+    "data": [
+      {
+        "title": "Data Science & Data Analyst",
+        "fileName": "DataScienceImg",
+        "skills": [
+          "⚡ Identify and obtain relevant datasets.",
+          "⚡ Remove errors, duplicates, and irrelevant information from raw data.",
+          "⚡ Apply statistical techniques to identify patterns and trends.",
+          "⚡ Create charts and dashboards to communicate insights effectively.",
+          "⚡ Interpret results and prepare reports with recommendations."
+        ],
+        "softwareSkills": [
+          {
+            "skillName": "Python",
+            "fontAwesomeClassname": "ion-logo-python",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Pandas",
+            "fontAwesomeClassname": "devicon:pandas-wordmark",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          },
+          {
+            "skillName": "Matplotlib",
+            "fontAwesomeClassname": "devicon:matplotlib",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Jupyter Notebook",
+            "fontAwesomeClassname": "devicon:jupyter-wordmark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Power BI",
+            "fontAwesomeClassname": "logos:microsoft-power-bi",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          },
+          {
+            "skillName": "Looker",
+            "fontAwesomeClassname": "logos:looker-icon",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Cloud Infra-Architecture",
+        "fileName": "CloudInfraImg",
+        "skills": [
+          "⚡ Experience working on multiple cloud platforms",
+          "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
+          "⚡ Setting up streaming jobs from DB to Server or vice-versa on Apache Airflow"
+        ],
+        "softwareSkills": [
+          {
+            "skillName": "MySQL",
+            "fontAwesomeClassname": "devicon:mysql-wordmark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#4285F4"
+            }
+          },
+          {
+            "skillName": "AWS",
+            "fontAwesomeClassname": "skill-icons:aws-dark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#FF9900"
+            }
+          },
+          {
+            "skillName": "Dbeaver",
+            "fontAwesomeClassname": "devicon:dbeaver",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#0089D6"
+            }
+          },
+          {
+            "skillName": "SQLite",
+            "fontAwesomeClassname": "skill-icons:sqlite",
+            "style": {
+              "color": "#FFCA28"
+            }
+          },
+          {
+            "skillName": "PostgreSQL",
+            "fontAwesomeClassname": "simple-icons:postgresql",
+            "style": {
+              "color": "#336791"
+            }
+          },
+          {
+            "skillName": "Apache Airflow",
+            "fontAwesomeClassname": "devicon:apacheairflow",
+            "style": {
+              "color": "#47A248"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "degrees": {
+    "degrees": [
+      {
+        "title": "Universidade Federal de Goiás",
+        "subtitle": "Bachelor's degree in Mechanical Engineering",
+        "logo_path": "ufg_logo.png",
+        "alt_name": "UFG",
+        "duration": "2017 - 2025",
+        "descriptions": [
+          "⚡ Studied in Mechanical Engineering enhances an engineer's analytical skills by designing, analyzing, and optimizing mechanical systems to solve complex challenges",
+          "⚡ Apart from this, I have done courses on Deep Learning, Data Science and Cloud Computing."
+        ],
+        "website_link": "https://ufg.br/"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "subtitle": "Work, Internship and Volunteership",
+    "description": "Applied knowledge in business intelligence (BI) coupled with strong group communication and task routine organization. Senior-level professional experience in extracting, organizing, and manipulating data to effectively identify process improvements and execute them successfully.",
+    "header_image_path": "experience.svg",
+    "sections": [
+      {
+        "title": "Work",
+        "work": true,
+        "experiences": [
+          {
+            "title": "Full Data Analyst",
+            "company": "EBM Incorporações",
+            "company_url": "https://ebm.com.br/",
+            "logo_path": "logo-ebm.png",
+            "duration": "Aug 2024 - Now",
+            "location": "Goiânia - Goiás",
+            "description": "Responsible for analyzing data and generating insights focused on the performance of the development company's departments, creating BI dashboards and reports to monitor and optimize results, and collaborating with multidisciplinary teams to identify improvement opportunities and support decision-making",
+            "color": "#fc1f20"
+          },
+          {
+            "title": "Controller Analyst",
+            "company": "Urbanizamos",
+            "company_url": "https://urbanizamos.com.br/",
+            "logo_path": "download.jpeg",
+            "duration": "Jul 2021 - Aug 2024",
+            "location": "Goiânia - Goiás",
+            "description": "Continuously monitor the economic and financial performance of ventures through critical viability analyses and strategic projections to ensure sustainability and profitability, while planning and controlling expenses in collaboration with other departments to guarantee efficient investments, and preparing and presenting financial reports to partners to support profit distribution decisions.",
+            "color": "#fc1f20"
+          },
+          {
+            "title": "Senior Data Analyst",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Jul 2021 - Aug 2024",
+            "location": "Goiânia - Goiás",
+            "description": "Responsible for interpreting and analyzing complex data sets to extract valuable insights and inform business decision-making. Developing and applying new concepts in Python language, as well as contributing to the development of the company's Data Warehouse and overseeing the management of all this data.",
+            "color": "#fc1f20"
+          }
+        ]
+      },
+      {
+        "title": "Internships",
+        "experiences": [
+          {
+            "title": "Data Science Research Intern",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Jan 2021 - Jul 2021",
+            "location": "Goiânia - Goiás",
+            "description": "Internship in data analysis and information control, focusing on the use of data analysis tools such as Excel and Power BI. Engaged in the creation and development of managing all key performance indicators (KPIs) for the company.",
+            "color": "#ee3c26"
+          },
+          {
+            "title": "Commercial intern",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Apr 2019 - Dec 2020",
+            "location": "Goiânia - Goiás",
+            "description": "Intern in commercial activities, involved in tasks ranging from pre-sales to customer integration into the marketed platform.",
+            "color": "#0071C5"
+          }
+        ]
+      },
+      {
+        "title": "Volunteerships",
+        "experiences": [
+          {
+            "title": "Engineering project collaborator",
+            "company": "ELO Júnior Engenharias e Arquitetura",
+            "company_url": "https://www.linkedin.com/in/elojunior/",
+            "logo_path": "elo_engenharia_junior_logo.jpg",
+            "duration": "Jan 2018 - May 2021",
+            "location": "Goiânia - Goiás",
+            "description": "10+ years operating in the Goiás market as a multidisciplinary company, providing consulting services, undertaking innovative and affordable projects, and delivering tailored solutions to meet the needs of our clients.",
+            "color": "#0C9D58"
+          },
+          {
+            "title": "Developer Program Member",
+            "company": "Github",
+            "company_url": "https://github.com/",
+            "logo_path": "github_logo.png",
+            "duration": "September 2023 - PRESENT",
+            "location": "Work From Home",
+            "description": "Learning and having the opportunity to develop some of what I have acquired in order to dynamically contribute to open source projects.",
+            "color": "#181717"
+          }
+        ]
+      }
+    ]
+  }
+}

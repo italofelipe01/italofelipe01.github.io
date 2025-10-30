@@ -1,0 +1,288 @@
+{
+  "home": "Início",
+  "education": "Educação",
+  "experience": "Experiência",
+  "projects": "Projetos",
+  "opensource": "Código Aberto",
+  "contact": "Contato",
+  "greetingTitle": "Ítalo Felipe",
+  "greetingNickname": "produtor",
+  "greetingSubTitle": "Analista de BI e Dados 📊 | Explorador de Tecnologia 🔍 | Aprendiz ao Longo da Vida 🚀 Apaixonado por decifrar dados e desvendar insights!",
+  "github": "Github",
+  "linkedin": "Linkedin",
+  "gmail": "Gmail",
+  "instagram": "Instagram",
+  "starMeOnGithub": "⭐ Me dê uma estrela no Github",
+  "whatIDo": "O que eu faço?",
+  "educationTitle": "Educação",
+  "educationSubTitle": "Qualificação Básica e Certificações",
+  "degreesReceived": "Graus Recebidos",
+  "certifications": "Certificações",
+  "projectsTitle": "Projetos",
+  "projectsDescription": "Minha experiência reside no desenvolvimento e implementação de projetos de Análise de Dados e Ciência de Dados, com foco particular na implementação e visualização deles por meio de painéis, controlando processos com base na análise de informações e gerenciando a melhoria contínua desses processos.",
+  "moreProjects": "Mais Projetos",
+  "publicationsTitle": "Publicações",
+  "publicationsDescription": "Trabalhei e publiquei alguns painéis para que possam ser visualizados e alguns exemplos são fornecidos abaixo.",
+  "contactTitle": "Contato",
+  "contactDescription": "Estou disponível em quase todas as redes sociais. Você pode me enviar uma mensagem, responderei em 24 horas. Posso ajudá-lo a organizar e analisar informações para fornecer insights valiosos para as organizações. Incluindo limpeza e preparação de dados, condução de análises exploratórias, desenvolvimento de modelos analíticos, interpretação de resultados e auxílio na tomada de decisões estratégicas. Eles frequentemente colaboram com equipes multidisciplinares e comunicam suas descobertas de maneira compreensível para várias partes interessadas.",
+  "seeMyResume": "Veja meu currículo",
+  "addressTitle": "Endereço",
+  "addressSubTitle": "Av. Nápoli, Goiânia, GO, CEP: 74367-640",
+  "phoneTitle": "Número de telefone",
+  "phoneSubTitle": "+55 (62) 98109-0041",
+  "visitOnGoogleMaps": "Visite no Google Maps",
+  "socialMediaLinks": [
+    {
+      "name": "Github",
+      "link": "https://github.com/italofelipe01/",
+      "fontAwesomeIcon": "fa-github",
+      "backgroundColor": "#181717"
+    },
+    {
+      "name": "Linkedin",
+      "link": "https://www.linkedin.com/in/italomorais/",
+      "fontAwesomeIcon": "fa-linkedin-in",
+      "backgroundColor": "#0077B5"
+    },
+    {
+      "name": "Gmail",
+      "link": "mailto:italofelipelira@gmail.com",
+      "fontAwesomeIcon": "fa-google",
+      "backgroundColor": "#D14836"
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/italof.morais/",
+      "fontAwesomeIcon": "fa-instagram",
+      "backgroundColor": "#E4405F"
+    }
+  ],
+  "skills": {
+    "data": [
+      {
+        "title": "Ciência de Dados e Análise de Dados",
+        "fileName": "DataScienceImg",
+        "skills": [
+          "⚡ Identificar e obter conjuntos de dados relevantes.",
+          "⚡ Remover erros, duplicatas e informações irrelevantes dos dados brutos.",
+          "⚡ Aplicar técnicas estatísticas para identificar padrões e tendências.",
+          "⚡ Criar gráficos e painéis para comunicar insights de forma eficaz.",
+          "⚡ Interpretar resultados e preparar relatórios com recomendações."
+        ],
+        "softwareSkills": [
+          {
+            "skillName": "Python",
+            "fontAwesomeClassname": "ion-logo-python",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Pandas",
+            "fontAwesomeClassname": "devicon:pandas-wordmark",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          },
+          {
+            "skillName": "Matplotlib",
+            "fontAwesomeClassname": "devicon:matplotlib",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Jupyter Notebook",
+            "fontAwesomeClassname": "devicon:jupyter-wordmark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#3776AB"
+            }
+          },
+          {
+            "skillName": "Power BI",
+            "fontAwesomeClassname": "logos:microsoft-power-bi",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          },
+          {
+            "skillName": "Looker",
+            "fontAwesomeClassname": "logos:looker-icon",
+            "style": {
+              "backgroundColor": "transparent"
+            }
+          }
+        ]
+      },
+      {
+        "title": "Infraestrutura em Nuvem",
+        "fileName": "CloudInfraImg",
+        "skills": [
+          "⚡ Experiência de trabalho em múltiplas plataformas de nuvem",
+          "⚡ Hospedagem e manutenção de sites em instâncias de máquinas virtuais, juntamente com a integração de bancos de dados",
+          "⚡ Configuração de trabalhos de streaming de banco de dados para servidor ou vice-versa no Apache Airflow"
+        ],
+        "softwareSkills": [
+          {
+            "skillName": "MySQL",
+            "fontAwesomeClassname": "devicon:mysql-wordmark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#4285F4"
+            }
+          },
+          {
+            "skillName": "AWS",
+            "fontAwesomeClassname": "skill-icons:aws-dark",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#FF9900"
+            }
+          },
+          {
+            "skillName": "Dbeaver",
+            "fontAwesomeClassname": "devicon:dbeaver",
+            "style": {
+              "backgroundColor": "transparent",
+              "color": "#0089D6"
+            }
+          },
+          {
+            "skillName": "SQLite",
+            "fontAwesomeClassname": "skill-icons:sqlite",
+            "style": {
+              "color": "#FFCA28"
+            }
+          },
+          {
+            "skillName": "PostgreSQL",
+            "fontAwesomeClassname": "simple-icons:postgresql",
+            "style": {
+              "color": "#336791"
+            }
+          },
+          {
+            "skillName": "Apache Airflow",
+            "fontAwesomeClassname": "devicon:apacheairflow",
+            "style": {
+              "color": "#47A248"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "degrees": {
+    "degrees": [
+      {
+        "title": "Universidade Federal de Goiás",
+        "subtitle": "Bacharelado em Engenharia Mecânica",
+        "logo_path": "ufg_logo.png",
+        "alt_name": "UFG",
+        "duration": "2017 - 2025",
+        "descriptions": [
+          "⚡ O estudo em Engenharia Mecânica aprimora as habilidades analíticas de um engenheiro ao projetar, analisar e otimizar sistemas mecânicos para resolver desafios complexos",
+          "⚡ Além disso, fiz cursos sobre Aprendizado Profundo, Ciência de Dados e Computação em Nuvem."
+        ],
+        "website_link": "https://ufg.br/"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experiência",
+    "subtitle": "Trabalho, Estágio e Voluntariado",
+    "description": "Conhecimento aplicado em business intelligence (BI) aliado a uma forte comunicação em grupo e organização da rotina de tarefas. Experiência profissional de nível sênior em extrair, organizar e manipular dados para identificar efetivamente melhorias nos processos e executá-las com sucesso.",
+    "header_image_path": "experience.svg",
+    "sections": [
+      {
+        "title": "Trabalho",
+        "work": true,
+        "experiences": [
+          {
+            "title": "Analista de Dados Pleno",
+            "company": "EBM Incorporações",
+            "company_url": "https://ebm.com.br/",
+            "logo_path": "logo-ebm.png",
+            "duration": "Ago 2024 - Agora",
+            "location": "Goiânia - Goiás",
+            "description": "Responsável por analisar dados e gerar insights focados no desempenho dos departamentos da empresa de desenvolvimento, criando painéis e relatórios de BI para monitorar e otimizar resultados, e colaborando com equipes multidisciplinares para identificar oportunidades de melhoria e apoiar a tomada de decisões.",
+            "color": "#fc1f20"
+          },
+          {
+            "title": "Analista de Controladoria",
+            "company": "Urbanizamos",
+            "company_url": "https://urbanizamos.com.br/",
+            "logo_path": "download.jpeg",
+            "duration": "Jul 2021 - Ago 2024",
+            "location": "Goiânia - Goiás",
+            "description": "Monitorar continuamente o desempenho econômico e financeiro dos empreendimentos por meio de análises críticas de viabilidade e projeções estratégicas para garantir a sustentabilidade e a lucratividade, enquanto planeja e controla despesas em colaboração com outros departamentos para garantir investimentos eficientes, e prepara e apresenta relatórios financeiros aos parceiros para apoiar as decisões de distribuição de lucros.",
+            "color": "#fc1f20"
+          },
+          {
+            "title": "Analista de Dados Sênior",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Jul 2021 - Ago 2024",
+            "location": "Goiânia - Goiás",
+            "description": "Responsável por interpretar e analisar conjuntos de dados complexos para extrair insights valiosos e informar a tomada de decisões de negócios. Desenvolvendo e aplicando novos conceitos na linguagem Python, bem como contribuindo para o desenvolvimento do Data Warehouse da empresa e supervisionando a gestão de todos esses dados.",
+            "color": "#fc1f20"
+          }
+        ]
+      },
+      {
+        "title": "Estágios",
+        "experiences": [
+          {
+            "title": "Estagiário de Pesquisa em Ciência de Dados",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Jan 2021 - Jul 2021",
+            "location": "Goiânia - Goiás",
+            "description": "Estágio em análise de dados e controle de informações, com foco no uso de ferramentas de análise de dados como Excel e Power BI. Envolvido na criação e desenvolvimento da gestão de todos os principais indicadores de desempenho (KPIs) da empresa.",
+            "color": "#ee3c26"
+          },
+          {
+            "title": "Estagiário Comercial",
+            "company": "Poli Soluções Digitais",
+            "company_url": "https://poli.digital/",
+            "logo_path": "logo-polidigital.svg",
+            "duration": "Abr 2019 - Dez 2020",
+            "location": "Goiânia - Goiás",
+            "description": "Estágio em atividades comerciais, envolvido em tarefas que vão desde a pré-venda até a integração do cliente na plataforma comercializada.",
+            "color": "#0071C5"
+          }
+        ]
+      },
+      {
+        "title": "Voluntariado",
+        "experiences": [
+          {
+            "title": "Colaborador de projetos de engenharia",
+            "company": "ELO Júnior Engenharias e Arquitetura",
+            "company_url": "https://www.linkedin.com/in/elojunior/",
+            "logo_path": "elo_engenharia_junior_logo.jpg",
+            "duration": "Jan 2018 - Mai 2021",
+            "location": "Goiânia - Goiás",
+            "description": "Mais de 10 anos atuando no mercado goiano como uma empresa multidisciplinar, prestando serviços de consultoria, realizando projetos inovadores e acessíveis e entregando soluções sob medida para atender às necessidades de nossos clientes.",
+            "color": "#0C9D58"
+          },
+          {
+            "title": "Membro do Programa de Desenvolvedores",
+            "company": "Github",
+            "company_url": "https://github.com/",
+            "logo_path": "github_logo.png",
+            "duration": "Setembro de 2023 - ATUAL",
+            "location": "Trabalho Remoto",
+            "description": "Aprendendo e tendo a oportunidade de desenvolver parte do que adquiri para contribuir dinamicamente com projetos de código aberto.",
+            "color": "#181717"
+          }
+        ]
+      }
+    ]
+  }
+}

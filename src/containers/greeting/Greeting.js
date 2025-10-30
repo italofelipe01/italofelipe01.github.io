@@ -5,8 +5,10 @@ import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
 import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
+import { useTranslation } from "react-i18next";
 
 export default function Greeting(props) {
+  const { t } = useTranslation();
   const theme = props.theme;
   return (
     <Fade bottom duration={2000} distance="40px">
@@ -15,23 +17,23 @@ export default function Greeting(props) {
           <div className="greeting-text-div">
             <div>
               <h1 className="greeting-text" style={{ color: theme.text }}>
-                {greeting.title}
+                {t("greetingTitle")}
               </h1>
-              {greeting.nickname && (
+              {t("greetingNickname") && (
                 <h2 className="greeting-nickname" style={{ color: theme.text }}>
-                  ( {greeting.nickname} )
+                  ( {t("greetingNickname")} )
                 </h2>
               )}
               <p
                 className="greeting-text-p subTitle"
                 style={{ color: theme.secondaryText }}
               >
-                {greeting.subTitle}
+                {t("greetingSubTitle")}
               </p>
               <SocialMedia theme={theme} />
               <div className="portfolio-repo-btn-div">
                 <Button
-                  text="⭐ Star Me On Github"
+                  text={t("starMeOnGithub")}
                   newTab={true}
                   href={greeting.portfolio_repository}
                   theme={theme}
