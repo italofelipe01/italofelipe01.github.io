@@ -1,0 +1,365 @@
+{
+  "totalCount": 88,
+  "data": [
+    {
+      "sha": "6c8d12be47b7c19c070c2bb4cdeaa2c09371b156",
+      "message": "update: update de performance report 93",
+      "url": "https://github.com/italofelipe01/sla/commit/6c8d12be47b7c19c070c2bb4cdeaa2c09371b156",
+      "committedDate": "2026-04-01T17:08:58.000-03:00",
+      "additions": 33,
+      "deletions": 46,
+      "repository": {
+        "name": "sla",
+        "url": "https://github.com/italofelipe01/sla",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "dc7dd56ee898e0e911ca14678575f0aa63286a51",
+      "message": "primeiro commit",
+      "url": "https://github.com/italofelipe01/sla/commit/dc7dd56ee898e0e911ca14678575f0aa63286a51",
+      "committedDate": "2026-04-01T14:26:50.000-03:00",
+      "additions": 892,
+      "deletions": 0,
+      "repository": {
+        "name": "sla",
+        "url": "https://github.com/italofelipe01/sla",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "905c0f7dd3051f2aa977a222a14ff6995028894f",
+      "message": "chore(merge): synchronize with remote main branch",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/905c0f7dd3051f2aa977a222a14ff6995028894f",
+      "committedDate": "2026-01-12T17:43:41.000-03:00",
+      "additions": 6,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "8698337252a2824a0a50c08fc665a9d369323a52",
+      "message": "chore(actions): setup actions with github actions",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/8698337252a2824a0a50c08fc665a9d369323a52",
+      "committedDate": "2026-01-12T17:40:28.000-03:00",
+      "additions": 107,
+      "deletions": 3,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "46826484d0baa39e98061ab3e6f8b869e8358e98",
+      "message": "chore(actions): setup semantic-release with github actions",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/46826484d0baa39e98061ab3e6f8b869e8358e98",
+      "committedDate": "2026-01-12T16:26:44.000-03:00",
+      "additions": 0,
+      "deletions": 1,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "88fc0c3c7b518443b887b51386387b8540ca350e",
+      "message": "chore(actions): setup semantic-release with github actions",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/88fc0c3c7b518443b887b51386387b8540ca350e",
+      "committedDate": "2026-01-12T16:22:57.000-03:00",
+      "additions": 3,
+      "deletions": 3,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "46bb2cebc129704729b5cfe12aefec086edcbb1d",
+      "message": "chore(actions): setup semantic-release with github actions",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/46bb2cebc129704729b5cfe12aefec086edcbb1d",
+      "committedDate": "2026-01-12T16:12:55.000-03:00",
+      "additions": 24,
+      "deletions": 4,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "59137032ad8d6371ae46067bb5c5f645af6ba7dd",
+      "message": "chore(actions): setup semantic-release with github actions",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/59137032ad8d6371ae46067bb5c5f645af6ba7dd",
+      "committedDate": "2026-01-12T16:09:19.000-03:00",
+      "additions": 38,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "ef5645a5470f0dae59dbf234081a89b0e36b9267",
+      "message": "docs(license): fix file formatting",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/ef5645a5470f0dae59dbf234081a89b0e36b9267",
+      "committedDate": "2025-11-28T10:46:07.000-03:00",
+      "additions": 0,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "55d3ced11310ef99ae9c338099133f55e0a9a0e2",
+      "message": "docs(readme): add documentation and installation guide",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/55d3ced11310ef99ae9c338099133f55e0a9a0e2",
+      "committedDate": "2025-11-28T10:45:38.000-03:00",
+      "additions": 66,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "4251f183247964460ecba8daf6b3dd02e2d78762",
+      "message": "docs(readme): remove existing documentation file",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/4251f183247964460ecba8daf6b3dd02e2d78762",
+      "committedDate": "2025-11-28T10:45:09.000-03:00",
+      "additions": 0,
+      "deletions": 64,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "b1a4bc6a3667e58352cff30454c0aee1976cfa17",
+      "message": "docs(readme): improve readability of installation steps",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/b1a4bc6a3667e58352cff30454c0aee1976cfa17",
+      "committedDate": "2025-11-28T10:44:35.000-03:00",
+      "additions": 22,
+      "deletions": 20,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "6e489454730380ad1142b10bed4abe4cb4a5c14b",
+      "message": "docs(readme): remove author email",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/6e489454730380ad1142b10bed4abe4cb4a5c14b",
+      "committedDate": "2025-11-28T10:42:44.000-03:00",
+      "additions": 62,
+      "deletions": 1,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "7ac23d24c81f64103381c5b8e2ff75722dd24087",
+      "message": "docs(citation): add citation file",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/7ac23d24c81f64103381c5b8e2ff75722dd24087",
+      "committedDate": "2025-11-28T10:41:59.000-03:00",
+      "additions": 17,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "e41df85ae96b35a254cb535d916d56e073e80f7d",
+      "message": "chore(cleanup): remove legacy templates directory",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/e41df85ae96b35a254cb535d916d56e073e80f7d",
+      "committedDate": "2023-07-17T15:28:19.000-03:00",
+      "additions": 0,
+      "deletions": 1,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "4bbcea553b9411fbb426f7e610ae9fa7d81fdb04",
+      "message": "chore(setup): create templates folder",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/4bbcea553b9411fbb426f7e610ae9fa7d81fdb04",
+      "committedDate": "2023-07-17T15:27:24.000-03:00",
+      "additions": 1,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "f023558a25c38d9afb165e5feb1d9ad2f01e4547",
+      "message": "feat(assets): upload initial project files",
+      "url": "https://github.com/italofelipe01/whitelabel_site/commit/f023558a25c38d9afb165e5feb1d9ad2f01e4547",
+      "committedDate": "2023-07-17T15:24:31.000-03:00",
+      "additions": 302,
+      "deletions": 0,
+      "repository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "b18b2da498ad4d71d8f7628a5f860dd99fea4d9a",
+      "message": "Merge pull request #1 from italofelipe01/refactor-professionalize-structure-14387641728651459829",
+      "url": "https://github.com/italofelipe01/xml_json_converter/commit/b18b2da498ad4d71d8f7628a5f860dd99fea4d9a",
+      "committedDate": "2025-12-17T18:04:42.000-03:00",
+      "additions": 1301,
+      "deletions": 1141,
+      "repository": {
+        "name": "xml_json_converter",
+        "url": "https://github.com/italofelipe01/xml_json_converter",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "1cf1bf3a82c485a2ecd553c193d3af7d692b3abb",
+      "message": "Merge pull request #1 from italofelipe01/refactor-professionalize-structure-and-code-4205937002085534072",
+      "url": "https://github.com/italofelipe01/texto_to_audio/commit/1cf1bf3a82c485a2ecd553c193d3af7d692b3abb",
+      "committedDate": "2025-12-17T18:01:33.000-03:00",
+      "additions": 245,
+      "deletions": 29,
+      "repository": {
+        "name": "texto_to_audio",
+        "url": "https://github.com/italofelipe01/texto_to_audio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "sha": "1cfcb13bafe729b4e4d14ffe7df87778a80c42a3",
+      "message": "Add CITATION.cff for software citation details",
+      "url": "https://github.com/italofelipe01/italofelipe01.github.io/commit/1cfcb13bafe729b4e4d14ffe7df87778a80c42a3",
+      "committedDate": "2025-11-28T12:03:46.000-03:00",
+      "additions": 16,
+      "deletions": 0,
+      "repository": {
+        "name": "italofelipe01.github.io",
+        "url": "https://github.com/italofelipe01/italofelipe01.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    }
+  ]
+}

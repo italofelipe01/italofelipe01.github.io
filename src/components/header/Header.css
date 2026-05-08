@@ -103,7 +103,7 @@
 }
 
 .header .menu-btn:checked ~ .menu {
-  max-height: 370px;
+  max-height: 460px;
 }
 
 .header .menu-btn:checked ~ .menu-icon .navicon {
@@ -129,12 +129,20 @@
   .header li {
     float: left;
   }
+  .header .language-menu-item {
+    display: flex;
+    align-items: center;
+    min-height: 63px;
+  }
   .header {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 14px;
   }
   .header .menu {
+    display: flex;
+    align-items: center;
     max-height: none;
   }
   .header .menu-icon {

@@ -341,7 +341,6 @@ const competitiveSites = {
     //   style: {
     //     color: "#5B4638",
     //   },
-    //   profileLink: "https://www.codechef.com/users/ashutosh_1919",
     // },
     // {
     //   siteName: "Codeforces",
@@ -357,7 +356,6 @@ const competitiveSites = {
     //   style: {
     //     color: "#323754",
     //   },
-    //   profileLink: "https://www.hackerearth.com/@ashutosh391",
     // },
     // {
     //   siteName: "Kaggle",
@@ -710,7 +708,6 @@ const contactPageData = {
     // title: "Blogs",
     // subtitle:
     //   "For individual fundamental empowerment, I like to write powerful lessons that create impact on each of the reader individually to change the core of their character.",
-    // link: "https://blogs.ashutoshhathidara.com/",
     // avatar_image_path: "blogs_image.svg",
   },
   addressSection: {

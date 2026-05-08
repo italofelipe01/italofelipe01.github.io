@@ -3,7 +3,7 @@ import "./Greeting.css";
 import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import { greeting } from "../../portfolio";
-import { Fade } from "react-reveal";
+import { Fade } from "../../components/animation/Reveal";
 import FeelingProud from "./FeelingProud";
 
 export default function Greeting(props) {
@@ -45,10 +45,6 @@ export default function Greeting(props) {
             </div>
           </div>
           <div className="greeting-image-div">
-            {/* <img
-							alt="saad sitting on table"
-							src={require("../../assests/images/feelingProud.svg")}
-						></img> */}
             <FeelingProud theme={theme} />
           </div>
         </div>

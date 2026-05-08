@@ -6,9 +6,10 @@ import SocialMedia from "../../components/socialMedia/SocialMedia";
 import Button from "../../components/button/Button";
 import BlogsImg from "./BlogsImg";
 import AddressImg from "./AddressImg";
-import { Fade } from "react-reveal";
+import { Fade } from "../../components/animation/Reveal";
 import "./ContactComponent.css";
 import { greeting, contactPageData } from "../../portfolio.js";
+import { getImageUrl } from "../../utils/assets";
 
 const ContactData = contactPageData.contactSection;
 const blogSection = contactPageData.blogSection;
@@ -26,7 +27,7 @@ class Contact extends Component {
             <div className="contact-heading-div">
               <div className="contact-heading-img-div">
                 <img
-                  src={require(`../../assests/images/${ContactData["profile_image_path"]}`)}
+                  src={getImageUrl(ContactData["profile_image_path"])}
                   alt=""
                 />
               </div>
@@ -77,10 +78,6 @@ class Contact extends Component {
                 </div>
               </div>
               <div className="blog-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${blogSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
                 <BlogsImg theme={theme} />
               </div>
             </div>
@@ -88,10 +85,6 @@ class Contact extends Component {
           <Fade bottom duration={1000} distance="40px">
             <div className="address-heading-div">
               <div className="contact-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${addressSection["avatar_image_path"]}`)}
-											alt=""
-										/> */}
                 <AddressImg theme={theme} />
               </div>
               <div className="address-heading-text-div">

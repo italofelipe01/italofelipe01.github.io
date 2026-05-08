@@ -1,7 +1,8 @@
 import React, { Component } from "react";
+import { Icon } from "@iconify/react";
 import "./PullRequestCard.css";
-import { OverlayTrigger, Tooltip } from "react-bootstrap";
-import { Fade } from "react-reveal";
+import { OverlayTrigger, Tooltip } from "../tooltip/Tooltip";
+import { Fade } from "../animation/Reveal";
 
 class PullRequestCard extends Component {
   render() {
@@ -75,12 +76,11 @@ class PullRequestCard extends Component {
         >
           <div className="pr-top">
             <div className="pr-header">
-              <span
+              <Icon
                 className="iconify pr-icons"
-                data-icon={iconPR.iconifyClass}
+                icon={iconPR.iconifyClass}
                 style={iconPR.style}
-                data-inline="false"
-              ></span>
+              />
               <div className="pr-title-header">
                 <p className="pr-title">
                   <a

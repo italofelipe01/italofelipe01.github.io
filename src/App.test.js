@@ -1,9 +1,13 @@
 import React from "react";
-import ReactDOM from "react-dom";
+import { cleanup, render } from "@testing-library/react";
+import { afterEach, describe, expect, it } from "vitest";
 import App from "./App";
 
-it("renders without crashing", () => {
-  const div = document.createElement("div");
-  ReactDOM.render(<App />, div);
-  ReactDOM.unmountComponentAtNode(div);
+afterEach(cleanup);
+
+describe("App", () => {
+  it("renders without crashing", () => {
+    render(<App />);
+    expect(document.body).toBeTruthy();
+  });
 });

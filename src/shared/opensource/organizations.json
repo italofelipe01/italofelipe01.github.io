@@ -1,3 +1,10 @@
 {
-  "data": []
+  "data": [
+    {
+      "avatarUrl": "https://avatars.githubusercontent.com/u/26231823?v=4",
+      "login": "digitalinnovationone",
+      "url": "https://github.com/digitalinnovationone",
+      "__typename": "Organization"
+    }
+  ]
 }

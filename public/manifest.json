@@ -1,6 +1,6 @@
 {
-  "short_name": "masterPortfolio",
-  "name": "masterPortfolio",
+  "short_name": "Italo Portfolio",
+  "name": "Italo Felipe Portfolio",
   "icons": [
   {
    "src": "\/icons\/android-icon-36x36.png",
@@ -41,6 +41,6 @@
  ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#05505E",
   "background_color": "#ffffff"
 }

@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./Skills.css";
 import SoftwareSkill from "../../components/softwareSkills/SoftwareSkill";
 import { skills } from "../../portfolio";
-import { Fade } from "react-reveal";
+import { Fade } from "../../components/animation/Reveal";
 import DataScienceImg from "./DataScienceImg";
 import FullStackImg from "./FullStackImg";
 import CloudInfraImg from "./CloudInfraImg";
@@ -28,10 +28,6 @@ class SkillSection extends Component {
             <div key={i} className="skills-main-div">
               <Fade left duration={2000}>
                 <div className="skills-image-div">
-                  {/* <img
-                    alt="Ashutosh is Analysing Data"
-                    src={require(`../../assests/images/${skill.imagePath}`)}
-                  ></img> */}
                   <GetSkillSvg fileName={skill.fileName} theme={theme} />
                 </div>
               </Fade>

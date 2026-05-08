@@ -1,8 +1,11 @@
 import React, { Component } from "react";
+import { ArcElement, Chart as ChartJS, Legend, Tooltip } from "chart.js";
 import { Doughnut } from "react-chartjs-2";
-import { Fade } from "react-reveal";
+import { Fade } from "../animation/Reveal";
 import "./IssueChart.css";
 import IssueData from "../../shared/opensource/issues.json";
+
+ChartJS.register(ArcElement, Tooltip, Legend);
 
 class IssueChart extends Component {
   render() {

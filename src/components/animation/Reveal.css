@@ -1,0 +1,33 @@
+.reveal-motion {
+  opacity: 0;
+  transform: var(--reveal-transform);
+  transition:
+    opacity var(--reveal-duration) cubic-bezier(0.22, 1, 0.36, 1)
+      var(--reveal-delay),
+    transform var(--reveal-duration) cubic-bezier(0.22, 1, 0.36, 1)
+      var(--reveal-delay),
+    filter var(--reveal-duration) cubic-bezier(0.22, 1, 0.36, 1)
+      var(--reveal-delay);
+  filter: blur(2px);
+  will-change: opacity, transform, filter;
+}
+
+.reveal-motion-flip {
+  transform-origin: center;
+  backface-visibility: hidden;
+}
+
+.reveal-motion-visible {
+  opacity: 1;
+  transform: none;
+  filter: blur(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .reveal-motion {
+    opacity: 1;
+    transform: none;
+    transition: none;
+    filter: none;
+  }
+}

@@ -5,7 +5,7 @@ import GithubRepoCard from "../../components/githubRepoCard/GithubRepoCard";
 import PublicationCard from "../../components/publicationsCard/PublicationCard";
 import Button from "../../components/button/Button";
 import TopButton from "../../components/topButton/TopButton";
-import { Fade } from "react-reveal";
+import { Fade } from "../../components/animation/Reveal";
 import {
   greeting,
   projectsHeader,
@@ -24,12 +24,8 @@ class Projects extends Component {
         <Header theme={theme} />
         <div className="basic-projects">
           <Fade bottom duration={2000} distance="40px">
-            <div className="projects-heading-div">
+              <div className="projects-heading-div">
               <div className="projects-heading-img-div">
-                {/* <img
-											src={require(`../../assests/images/${projectsHeader["avatar_image_path"]}`)}
-											alt=""
-										/> */}
                 <ProjectsImg theme={theme} />
               </div>
               <div className="projects-heading-text-div">

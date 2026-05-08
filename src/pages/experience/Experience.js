@@ -5,7 +5,7 @@ import TopButton from "../../components/topButton/TopButton";
 import ExperienceAccordion from "../../containers/experienceAccordion/ExperienceAccordion.js";
 import "./Experience.css";
 import { experience } from "../../portfolio.js";
-import { Fade } from "react-reveal";
+import { Fade } from "../../components/animation/Reveal";
 import ExperienceImg from "./ExperienceImg";
 
 // const experience = {
@@ -154,10 +154,6 @@ class Experience extends Component {
           <Fade bottom duration={2000} distance="40px">
             <div className="experience-heading-div">
               <div className="experience-heading-img-div">
-                {/* <img
-									src={require(`../../assests/images/${experience["header_image_path"]}`)}
-									alt=""
-								/> */}
                 <ExperienceImg theme={theme} />
               </div>
               <div className="experience-heading-text-div">

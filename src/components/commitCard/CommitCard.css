@@ -1,0 +1,110 @@
+.commit-card {
+  width: 75%;
+  display: inline-block;
+  margin-bottom: 10px;
+  border: 1px solid #0969da;
+  border-radius: 5px;
+  background-color: #ddf4ff;
+  padding: 12px;
+  text-align: left;
+}
+
+.commit-card-top {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.commit-icon {
+  flex: 0 0 auto;
+  margin-top: 2px;
+  font-size: 20px;
+}
+
+.commit-title-block {
+  min-width: 0;
+}
+
+.commit-title {
+  color: #000;
+  display: block;
+  font-family: "Google Sans Regular";
+  font-size: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.commit-title:hover {
+  text-decoration: underline;
+}
+
+.commit-subtitle {
+  margin: 2px 0 0;
+  color: #57606a;
+  font-family: "Google Sans Regular";
+  font-size: 10px;
+}
+
+.commit-card-bottom {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  margin-left: 30px;
+  margin-top: 8px;
+}
+
+.commit-repo {
+  margin: 0;
+  overflow: hidden;
+  color: #24292f;
+  font-family: "Google Sans Regular";
+  font-size: 12px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.commit-repo a {
+  color: #0969da;
+  text-decoration: none;
+}
+
+.commit-repo a:hover {
+  text-decoration: underline;
+}
+
+.commit-stats {
+  display: flex;
+  flex: 0 0 auto;
+  gap: 8px;
+  font-family: "Google Sans Regular";
+  font-size: 14px;
+}
+
+.commit-additions {
+  color: #1a7f37;
+}
+
+.commit-deletions {
+  color: #cf222e;
+}
+
+@media (max-width: 768px) {
+  .commit-card {
+    width: 85%;
+  }
+
+  .commit-title {
+    white-space: normal;
+  }
+
+  .commit-card-bottom {
+    flex-direction: column;
+    margin-left: 30px;
+  }
+
+  .commit-repo {
+    white-space: normal;
+  }
+}

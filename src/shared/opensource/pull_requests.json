@@ -1,13 +1,172 @@
 {
+  "open": 0,
+  "merged": 9,
   "closed": 0,
+  "totalCount": 9,
   "data": [
+    {
+      "id": "PR_kwDOJ8nMxM65dHM-",
+      "title": "Refactor project structure, add docs, and tests",
+      "url": "https://github.com/italofelipe01/whitelabel_site/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+        "url": "https://github.com/italofelipe01",
+        "login": "italofelipe01"
+      },
+      "createdAt": "2025-12-17T21:06:53Z",
+      "number": 1,
+      "changedFiles": 13,
+      "additions": 327,
+      "deletions": 296,
+      "baseRepository": {
+        "name": "whitelabel_site",
+        "url": "https://github.com/italofelipe01/whitelabel_site",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOP2Rh3M65dFnS",
+      "title": "Refactor project structure and improve professionalism",
+      "url": "https://github.com/italofelipe01/xml_json_converter/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+        "url": "https://github.com/italofelipe01",
+        "login": "italofelipe01"
+      },
+      "createdAt": "2025-12-17T21:04:36Z",
+      "number": 1,
+      "changedFiles": 23,
+      "additions": 1301,
+      "deletions": 1141,
+      "baseRepository": {
+        "name": "xml_json_converter",
+        "url": "https://github.com/italofelipe01/xml_json_converter",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOKoAcP865dDRp",
+      "title": "Refactor project structure and improve code quality",
+      "url": "https://github.com/italofelipe01/texto_to_audio/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+        "url": "https://github.com/italofelipe01",
+        "login": "italofelipe01"
+      },
+      "createdAt": "2025-12-17T21:01:26Z",
+      "number": 1,
+      "changedFiles": 7,
+      "additions": 245,
+      "deletions": 29,
+      "baseRepository": {
+        "name": "texto_to_audio",
+        "url": "https://github.com/italofelipe01/texto_to_audio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOK7hIIc6wsqaS",
+      "title": "Merge pull request #1 from italofelipe01/fix-dependency-issues",
+      "url": "https://github.com/italofelipe01/italofelipe01.github.io/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+        "url": "https://github.com/italofelipe01",
+        "login": "italofelipe01"
+      },
+      "createdAt": "2025-10-30T19:58:41Z",
+      "number": 2,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "italofelipe01.github.io",
+        "url": "https://github.com/italofelipe01/italofelipe01.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOK7hIIc6wsOCe",
+      "title": "Fix dependency issues",
+      "url": "https://github.com/italofelipe01/italofelipe01.github.io/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+        "url": "https://github.com/italofelipe01",
+        "login": "italofelipe01"
+      },
+      "createdAt": "2025-10-30T19:14:35Z",
+      "number": 1,
+      "changedFiles": 31,
+      "additions": 449,
+      "deletions": 356,
+      "baseRepository": {
+        "name": "italofelipe01.github.io",
+        "url": "https://github.com/italofelipe01/italofelipe01.github.io",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
+          "login": "italofelipe01",
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOJblv-s588zmE",
+      "title": "feat: add italofelipe01 profile",
+      "url": "https://github.com/digitalinnovationone/dio-lab-open-source/pull/49349",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/in/15368?v=4",
+        "url": "https://github.com/apps/github-actions",
+        "login": "github-actions[bot]"
+      },
+      "createdAt": "2024-09-27T17:52:00Z",
+      "number": 49349,
+      "changedFiles": 1,
+      "additions": 25,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "dio-lab-open-source",
+        "url": "https://github.com/digitalinnovationone/dio-lab-open-source",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/26231823?v=4",
+          "login": "digitalinnovationone",
+          "url": "https://github.com/digitalinnovationone",
+          "__typename": "Organization"
+        }
+      }
+    },
     {
       "id": "PR_kwDOLBKyM85jUj90",
       "title": "Final branch",
       "url": "https://github.com/italofelipe01/skills-communicate-using-markdown/pull/2",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
         "url": "https://github.com/italofelipe01",
         "login": "italofelipe01"
       },
@@ -20,9 +179,10 @@
         "name": "skills-communicate-using-markdown",
         "url": "https://github.com/italofelipe01/skills-communicate-using-markdown",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
           "login": "italofelipe01",
-          "url": "https://github.com/italofelipe01"
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
         }
       }
     },
@@ -32,7 +192,7 @@
       "url": "https://github.com/italofelipe01/skills-communicate-using-markdown/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
         "url": "https://github.com/italofelipe01",
         "login": "italofelipe01"
       },
@@ -45,9 +205,10 @@
         "name": "skills-communicate-using-markdown",
         "url": "https://github.com/italofelipe01/skills-communicate-using-markdown",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
           "login": "italofelipe01",
-          "url": "https://github.com/italofelipe01"
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
         }
       }
     },
@@ -57,7 +218,7 @@
       "url": "https://github.com/italofelipe01/skills-introduction-to-github/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
         "url": "https://github.com/italofelipe01",
         "login": "italofelipe01"
       },
@@ -70,39 +231,12 @@
         "name": "skills-introduction-to-github",
         "url": "https://github.com/italofelipe01/skills-introduction-to-github",
         "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?v=4",
           "login": "italofelipe01",
-          "url": "https://github.com/italofelipe01"
-        }
-      }
-    },
-    {
-      "id": "PR_kwDOIaJC1c5CnN3r",
-      "title": "Add my first file",
-      "url": "https://github.com/italofelipe01/Test-repository/pull/1",
-      "state": "MERGED",
-      "mergedBy": {
-        "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
-        "url": "https://github.com/italofelipe01",
-        "login": "italofelipe01"
-      },
-      "createdAt": "2022-11-10T11:46:47Z",
-      "number": 1,
-      "changedFiles": 3,
-      "additions": 4,
-      "deletions": 3,
-      "baseRepository": {
-        "name": "Test-repository",
-        "url": "https://github.com/italofelipe01/Test-repository",
-        "owner": {
-          "avatarUrl": "https://avatars.githubusercontent.com/u/117910517?u=6f0310fb2bf26d33539629ae2ffe73bba3e82191&v=4",
-          "login": "italofelipe01",
-          "url": "https://github.com/italofelipe01"
+          "url": "https://github.com/italofelipe01",
+          "__typename": "User"
         }
       }
     }
-  ],
-  "merged": 4,
-  "open": 0,
-  "totalCount": 4
+  ]
 }

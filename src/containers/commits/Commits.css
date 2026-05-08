@@ -1,0 +1,41 @@
+.commits-header-div {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.commits-header {
+  margin: 0 10px;
+  font-family: "Google Sans Regular";
+  font-size: 40px;
+  line-height: 1.1;
+}
+
+.commits-subtitle {
+  margin: 12px auto 30px;
+  max-width: 720px;
+  padding: 0 16px;
+  font-family: "Google Sans Regular";
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.commits-body-div {
+  width: 100%;
+  text-align: center;
+}
+
+@media (max-width: 1380px) {
+  .commits-header {
+    font-size: 35px;
+  }
+}
+
+@media (max-width: 768px) {
+  .commits-header-div {
+    margin-top: 40px;
+  }
+
+  .commits-header {
+    font-size: 25px;
+  }
+}

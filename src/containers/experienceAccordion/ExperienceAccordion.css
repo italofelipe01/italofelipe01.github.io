@@ -4,6 +4,24 @@
 
 .accord-panel {
   font-family: "Google Sans Regular";
+  margin-bottom: 8px;
+}
+
+.accord-summary {
+  border: 1px solid;
+  border-radius: 5px;
+  cursor: pointer;
+  list-style-position: inside;
+  margin-bottom: 3px;
+  padding: 14px 18px;
+}
+
+.accord-summary:hover {
+  opacity: 0.8;
+}
+
+.accord-content {
+  padding: 4px 0 16px;
 }
 
 @media (max-width: 768px) {
